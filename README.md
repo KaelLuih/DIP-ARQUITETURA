@@ -1,4 +1,4 @@
-```markdown
+
 # 🏗️ Refatoração: Inversão de Dependência (DIP) e Injeção de Dependência
 
 Este projeto demonstra como transformar um código com alto acoplamento em uma arquitetura flexível e escalável, aplicando o quinto princípio do **SOLID**: **DIP (Dependency Inversion Principle)**.
@@ -167,4 +167,5 @@ O sistema pode trocar facilmente o meio de comunicação sem alterar a lógica p
 A aplicação do **Dependency Inversion Principle (DIP)** reduz o acoplamento entre as classes e aumenta a flexibilidade do sistema.
 
 A arquitetura passa a depender de **abstrações**, permitindo evolução, testes e manutenção muito mais simples.
-```
+
+
